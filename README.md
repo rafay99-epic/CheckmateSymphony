@@ -1,6 +1,15 @@
 # ChessMasters: A Flutter Chess Game
 
-![ChessMasters Logo](/Screenshots/ChessMaster-Circle.png) <!-- If you have a logo, include it here -->
+<!-- ![ChessMasters Logo](/Screenshots/ChessMaster-Circle.png) If you have a logo, include it here -->
+
+
+<p align="center">
+    <a herf="https://future-insight.blog/">
+    <img src="/Screenshots/ChessMaster-Circle.png" alt="Future Insight"  width="230px" height="230px">
+    </a>
+  <br>
+</p>
+
 
 ChessMasters is an elegant and strategic chess game built using Flutter. Dive into the world of chess and challenge your friends or test your skills against AI opponents. Whether you're a beginner or a seasoned grandmaster, ChessMasters offers a captivating chess experience for all levels of expertise.
 
